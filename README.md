@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @shravyas2000
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-shravyas2000/shravyas2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+swapping of two number
+largest of three numbers
+leap year or not
+Fibbonacci series upto nTh term
+TO check number is prime or not
+program to pattern using loops
+program that takes n elements from the user and displays the second largest element of an array
